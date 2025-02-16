@@ -2,7 +2,7 @@
 The SIM Card Registration System is a Java-based application designed to facilitate the registration, deregistration, and management of SIM card details. 
 
 ## **Features**
- ### **1. Home Screen** 
+ #### **1. Home Screen** 
  Displays a welcome message and allows users to select a service provider.
 
  #### **2. SIM Card Registration** 
