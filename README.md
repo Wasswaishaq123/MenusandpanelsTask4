@@ -54,7 +54,7 @@ The SIM Card Registration System is a Java-based application designed to facilit
 
 * **UI Elements:** Uses Swing components (JPanel, JLabel, JButton, JTextField, JComboBox). Layout managed using BorderLayout and FlowLayout.
 * **Screenshots:** 
-<img src="(https://github.com/Wasswaishaq123/MenusandpanelsTask4/blob/main/src/main/java/Images/Picture.jpg)?raw=true" alt="Contact_App" style="width: 49%;">
+<img src="https://github.com/Wasswaishaq123/MenusandpanelsTask4/blob/main/src/main/java/Images/Picture.jpg?raw=true" alt="Contact_App" style="width: 49%;">
 
 ## **Challenges and Resolutions** 
 
