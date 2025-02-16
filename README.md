@@ -1,8 +1,3 @@
-
-# Menusandpanels
-This a Java Swing Application that includes JPanels and a JMenu.
-My work  automation by trigger
-
 # **Menusandpanels**
 The SIM Card Registration System is a Java-based application designed to facilitate the registration, deregistration, and management of SIM card details. 
 
@@ -59,7 +54,7 @@ The SIM Card Registration System is a Java-based application designed to facilit
 
 * **UI Elements:** Uses Swing components (JPanel, JLabel, JButton, JTextField, JComboBox). Layout managed using BorderLayout and FlowLayout.
 * **Screenshots:** 
-<img src="https://github.com/Wasswaishaq123/PhoneContactAPP_Task3/blob/main/TASK3/images/Screenshot%202025-02-08%20230027.png?raw=true" alt="Contact_App" style="width: 49%;">
+<img src="(https://github.com/Wasswaishaq123/MenusandpanelsTask4/blob/main/src/main/java/Images/Picture.jpg)?raw=true" alt="Contact_App" style="width: 49%;">
 
 ## **Challenges and Resolutions** 
 
