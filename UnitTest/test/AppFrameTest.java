@@ -1,4 +1,4 @@
-package ApplicationLogic;
+package AppLogic;
 
 import org.junit.jupiter.api.Test;
 import javax.swing.*;
@@ -18,7 +18,7 @@ class AppFrameTest {
 
         JMenuItem homeItem = new JMenuItem("Home");
         JMenuItem detailsItem = new JMenuItem("Details");
-        JMenuItem deregisterItem = new JMenuItem("Deregister");
+        JMenuItem deregisterItem = new JMenuItem("DeRegister");
         JMenuItem userItem = new JMenuItem("User");
 
         menu.add(homeItem);
