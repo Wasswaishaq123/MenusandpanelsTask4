@@ -1,4 +1,4 @@
-package ApplLogic;
+package AppLogic
 
 import org.junit.jupiter.api.Test;
 import javax.swing.*;
